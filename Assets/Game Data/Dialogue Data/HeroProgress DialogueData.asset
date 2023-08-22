@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81e73dcd6e05019428257dcccaa147e8, type: 3}
+  m_Name: HeroProgress DialogueData
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: "\u63D0\u793A01"
+    image: {fileID: 0}
+    text: "\u770B\u5230\u90A3\u4E24\u53EA\u602A\u7269\u4E86\u5417\uFF0C\u5E2E\u6211\u25A1\u6389\u4ED6\u4EEC"
+    quest: {fileID: 0}
+    options: []
